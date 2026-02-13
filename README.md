@@ -1,4 +1,4 @@
-# Realtime-Car-Softbody-Approximation
+# Realtime-Car-Softbody-Approximation [READ THIS: RELEASING SOON]
 
 TR-MZ's realtime car softbody approximation for Roblox.
 
